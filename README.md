@@ -1,10 +1,7 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./images/로고_background-none.png"/>
-</p>
+
 <h2 align="middle">GDSC TIL Study</h2>
 <p align="middle">Today I Leared</p>
-<p align="middle">
+<p align="left">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
   <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
 </p>
@@ -13,4 +10,4 @@
 
 # spring
 - ### security
-  - <h4><a href='https://github.com/sudhdkso/GDSC-TIL-study/blob/j1yun/Spring/Security/Oauth2.md'>oauth</a></h4>
+  - <h4><a href='https://github.com/sudhdkso/GDSC-TIL-study/blob/j1yun/Spring/Security/Oauth2.md'>oauth2의 정의와 인증및 인가과정</a></h4>
