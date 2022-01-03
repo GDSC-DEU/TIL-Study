@@ -6,5 +6,5 @@
 
 | 날짜 | 제목  | 설명              | 링크     |
 | ---- | ----- | ----------------- | -------- |
-| 2021/01/03 | RTL_SDR ISS SSTV 수신프로젝트 1 | RTL_SDR , SSTV 개념에 대해 기술하였습니다. | [https://blog.naver.com/nifskr/222612128771]() |
-| 2021/01/03 | RTL_SDR ISS SSTV 수신프로젝트 2 | RTL_SDR , SSTV 수신을위하여 안테나 제작에대해 기술하였습니다.  | [https://blog.naver.com/nifskr/222612239059]() |
+| 2021/01/03 | RTL_SDR ISS SSTV 수신프로젝트 1 | RTL_SDR , SSTV 개념에 대해 기술하였습니다. | [https://blog.naver.com/nifskr/222612128771](https://blog.naver.com/nifskr/222612128771) |
+| 2021/01/03 | RTL_SDR ISS SSTV 수신프로젝트 2 | RTL_SDR , SSTV 수신을위하여 안테나 제작에대해 기술하였습니다.  | [https://blog.naver.com/nifskr/222612239059](https://blog.naver.com/nifskr/222612239059) |
