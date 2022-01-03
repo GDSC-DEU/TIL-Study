@@ -13,4 +13,4 @@
 
 # spring
 - ### security
-  - <h4><a href='.\Security\Oauth2.md'>oauth</a></h4>
+  - <h4><a href='https://github.com/sudhdkso/GDSC-TIL-study/blob/j1yun/Spring/Security/Oauth2.md'>oauth</a></h4>
