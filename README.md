@@ -1,16 +1,8 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./images/로고_background-none.png"/>
-</p>
-<h2 align="middle">GDSC TIL Study</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
+# TIL
 
-<br/>
+## January
 
+<<<<<<< HEAD
 ### 진행 일정
 
 - 1월 한달 간(1/3~1/28, 1/31은 설날연휴)
@@ -36,3 +28,8 @@
 ### 참고하면 좋은 자료
 
 [GitHub에서 협업을 위한 remote repository와 upstream 이해하기](https://pers0n4.io/github-remote-repository-and-upstream/)
+=======
+| 날짜     | 제목                   | 설명                   | 링크                                        |
+| -------- | ---------------------- | ---------------------- | ------------------------------------------- |
+| 2022.1.3 | Gatsby로 블로그 만들기 | dev 페이지 스타일 작업 | [블로그](https://jeonghyeblog.gatsbyjs.io/) |
+>>>>>>> 19e55c5bd60da2dd8f868af48597528e804edef3
