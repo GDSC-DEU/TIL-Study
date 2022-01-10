@@ -1,38 +1,17 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./images/로고_background-none.png"/>
-</p>
-<h2 align="middle">GDSC TIL Study</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
+## TIL
+
+### 2022.1.5
 
 <br/>
 
-### 진행 일정
-
-- 1월 한달 간(1/3~1/28, 1/31은 설날연휴)
-- 평일 21:00-24:00(3시간)
-
-### 진행 방식
-
-- 모(여서)각(자)코(딩)를 기본으로 합니다.
-- 깃헙이나 블로그 등 다양한 각자의 방식으로 TIL을 작성합니다.
-- 다음날 스터디 시작 전까지 전날 TIL을 PR 보냅니다.
-
-### PR 방법
-
-1. **새로운 Branch 생성**
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository `clone`
-4. **README.md를 작성!**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push`
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-
-### 참고하면 좋은 자료
-
-[GitHub에서 협업을 위한 remote repository와 upstream 이해하기](https://pers0n4.io/github-remote-repository-and-upstream/)
+| 날짜 | 제목  | 설명              | 링크     |
+| ---- | ----- | ----------------- | -------- |
+| 2020/12/31 | 웹 프로그래밍 기초 | 웹 기초 및 html 기초 요소 | [notion](https://pinto-lemon-f3a.notion.site/0bf7c678b8da4477bc2b101341f37bfa) |
+| 2021/01/03 | 알고리즘 | 백준 1789, 1302 문제 풀기 및 해설  | [notion](https://pinto-lemon-f3a.notion.site/7512372ca8554d70ae0d52bd3199e92b) |
+| 2021/01/03 | Django | django 프레임워크 기초 개념  | [notion](https://pinto-lemon-f3a.notion.site/Django-c6253d70e38240368f655e5eddd0f453) |
+| 2021/01/04 | C++ | C++ 기초 (자료형 및 포인터, 참조형)  | [notion](https://pinto-lemon-f3a.notion.site/C-6d72e97f6a084c4b851e52ec7282ebfe) |
+| 2021/01/04 | Django | django 프로젝트 시작 및 초기 세팅  | [notion](https://pinto-lemon-f3a.notion.site/Django-63d2a0f393ac4dddafdcbc861aba8eae) |
+| 2021/01/05 | C | C언어 복습 자료형  | [notion](https://pinto-lemon-f3a.notion.site/C-a8a89c002c9843488eeb48954d0704b1) |
+| 2021/01/06 | C++ | C++ 네임스페이스 및 함수선언  | [notion](https://pinto-lemon-f3a.notion.site/C-732dca7ab9754511afc6232ff0c82601) |
+| 2021/01/06 | Django | Django 모델 생성 및 프로젝트 진행  | [notion](https://pinto-lemon-f3a.notion.site/Django-bbd96ecec2f94685ba097128c9c4fad8) |
+| 2021/01/10 | 알고리즘 | 트리구조  | [notion](https://pinto-lemon-f3a.notion.site/6547ecfd49454fb2b2027bdfc7f286f1) |
