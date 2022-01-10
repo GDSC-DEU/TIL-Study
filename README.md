@@ -4,4 +4,4 @@
 
 | 날짜 | 제목  | 설명              | 링크     |
 | ---- | ----- | ----------------- | -------- |
-| 2022.1.7 | ZBrush 입문 | ZBrush 조작법 및 간단 실습 | [노션](https://plaid-breakfast-07b.notion.site/ZBrush-7f9a6f3dc39d418796b007fea9700d39) |
+| 2022.1.10 | ZBrush day 2 | ZBrush 조작법 및 간단 모델링 | [노션](https://plaid-breakfast-07b.notion.site/ZBrush-day-2-6e6e1c5e411a4cfeb50f7397e3a412a5) |
