@@ -13,4 +13,6 @@
 | 2022.01.06 | java | javaBigInteger | https://github.com/sudhdkso/TIL/blob/main/Java/JavaBigInteger.md|
 | 2022.01.07 | java | 1D array | https://github.com/sudhdkso/TIL/blob/main/Java/Java1DArray.md|
 | 2022.01.07 | network | internet | https://github.com/sudhdkso/TIL/blob/main/Network/1weeks.md|
+| 2022.01.10 | Spring | OAuth2소셜로그인| https://github.com/sudhdkso/TIL/blob/main/Spring/Chapter5.md|
+| 2022.01.10 | CS | 그리디 | https://github.com/sudhdkso/TIL/blob/main/CS/greedy/14469.md|
 
