@@ -13,3 +13,5 @@
 | 2021/01/04 | Django | django 프로젝트 시작 및 초기 세팅  | [notion](https://pinto-lemon-f3a.notion.site/Django-63d2a0f393ac4dddafdcbc861aba8eae) |
 | 2021/01/05 | C | C언어 복습 자료형  | [notion](https://pinto-lemon-f3a.notion.site/C-a8a89c002c9843488eeb48954d0704b1) |
 | 2021/01/06 | C++ | C++ 네임스페이스 및 함수선언  | [notion](https://pinto-lemon-f3a.notion.site/C-732dca7ab9754511afc6232ff0c82601) |
+| 2021/01/06 | C | C언어 상수 및 변수 사칙연산  | [notion](https://pinto-lemon-f3a.notion.site/C-65a1fb770e3647fe80793cf094a8ad6b) |
+
