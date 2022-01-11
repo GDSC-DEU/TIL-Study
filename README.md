@@ -1,6 +1,6 @@
 ## TIL
 
-### 2022.1.5
+### 2022.1.10
 
 <br/>
 
@@ -14,4 +14,6 @@
 | 2021/01/05 | C | C언어 복습 자료형  | [notion](https://pinto-lemon-f3a.notion.site/C-a8a89c002c9843488eeb48954d0704b1) |
 | 2021/01/06 | C++ | C++ 네임스페이스 및 함수선언  | [notion](https://pinto-lemon-f3a.notion.site/C-732dca7ab9754511afc6232ff0c82601) |
 | 2021/01/06 | C | C언어 상수 및 변수 사칙연산  | [notion](https://pinto-lemon-f3a.notion.site/C-65a1fb770e3647fe80793cf094a8ad6b) |
-
+| 2021/01/07 | Django | Django 모델 생성 및 프로젝트 진행  | [notion](https://pinto-lemon-f3a.notion.site/Django-bbd96ecec2f94685ba097128c9c4fad8) |
+| 2021/01/10 | 알고리즘 | 트리구조  | [notion](https://pinto-lemon-f3a.notion.site/6547ecfd49454fb2b2027bdfc7f286f1) |
+| 2021/01/11 | C | C언어 상수 및 변수 사칙연산  | [notion](https://pinto-lemon-f3a.notion.site/C-65a1fb770e3647fe80793cf094a8ad6b) |
