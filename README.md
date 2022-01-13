@@ -16,4 +16,5 @@
 | 2021/01/07 | Django | Django 모델 생성 및 프로젝트 진행  | [notion](https://pinto-lemon-f3a.notion.site/Django-bbd96ecec2f94685ba097128c9c4fad8) |
 | 2021/01/10 | 알고리즘 | 트리구조  | [notion](https://pinto-lemon-f3a.notion.site/6547ecfd49454fb2b2027bdfc7f286f1) |
 | 2021/01/11 | C | C언어 상수 및 변수 사칙연산  | [notion](https://pinto-lemon-f3a.notion.site/C-65a1fb770e3647fe80793cf094a8ad6b) |
-| 2021/01/13 | C++ | 클래스 | [notion](https://pinto-lemon-f3a.notion.site/C-3a2cb21f27c04be5996adb6a91e6968f) |
+| 2021/01/12 | C++ | 클래스 | [notion](https://pinto-lemon-f3a.notion.site/C-3a2cb21f27c04be5996adb6a91e6968f) |
+| 2021/01/13 | 웹 프로그래밍 기초 | 멀티미디어와 입력방식 | [notion](https://pinto-lemon-f3a.notion.site/WEB-1a2bf583e80647e58ffe3a07ffc8f9b7) |
