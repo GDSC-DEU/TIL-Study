@@ -23,6 +23,10 @@
 | 2022.01.12 | CS | DP | https://github.com/sudhdkso/TIL/blob/main/CS/DynamicProgramming/14495.md|
 | 2022.01.13 | CS | DP | https://github.com/sudhdkso/TIL/blob/main/CS/DynamicProgramming/1003.md|
 | 2022.01.13 | CS | DP | https://github.com/sudhdkso/TIL/blob/main/CS/DynamicProgramming/17175.md|
+| 2022.01.14 | CS | DP | https://github.com/sudhdkso/TIL/blob/main/CS/DynamicProgramming/11722.md|
+| 2022.01.14 | CS | DP | https://github.com/sudhdkso/TIL/blob/main/CS/DynamicProgramming/11051.md|
+| 2022.01.14 | CS | DP | https://github.com/sudhdkso/TIL/blob/main/CS/DynamicProgramming/2839.md|
+| 2022.01.14 | CS | DP | https://github.com/sudhdkso/TIL/blob/main/CS/DynamicProgramming/9461.md|
 
 
 
