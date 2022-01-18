@@ -20,3 +20,4 @@
 | 2021/01/13 | 웹 프로그래밍 기초 | 멀티미디어와 입력방식 | [notion](https://pinto-lemon-f3a.notion.site/WEB-1a2bf583e80647e58ffe3a07ffc8f9b7) |
 | 2021/01/14 | django |프로젝트 진행 |  |
 | 2021/01/17 | 알고리즘 | 프로그래머스 스터디 | [notion](https://pinto-lemon-f3a.notion.site/413a5d9cfa254291a4e94a9cee06ff7b) |
+| 2021/01/18 | C | C언어 복습(곱, 나눗셈, 조건문, 각종 연산자) | [notion](https://pinto-lemon-f3a.notion.site/C-ab4e498e2d2341348ade10c3dfa9261b) |
