@@ -1,6 +1,6 @@
 ## TIL
 
-### 2022.1.18
+### 2022.1.19
 
 <br/>
 
@@ -21,3 +21,4 @@
 | 2021/01/14 | django |프로젝트 진행 |  |
 | 2021/01/17 | 알고리즘 | 프로그래머스 스터디 | [notion](https://pinto-lemon-f3a.notion.site/413a5d9cfa254291a4e94a9cee06ff7b) |
 | 2021/01/18 | C | C언어 복습(곱, 나눗셈, 조건문, 각종 연산자) | [notion](https://pinto-lemon-f3a.notion.site/C-ab4e498e2d2341348ade10c3dfa9261b) |
+| 2021/01/18 | 웹 프로그래밍 기초 | CSS 기초 | [notion](https://pinto-lemon-f3a.notion.site/f3d1e20e85c14fd2b50da8f72f129d6a) |
