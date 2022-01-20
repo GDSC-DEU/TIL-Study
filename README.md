@@ -30,7 +30,9 @@
 | 2022.01.17 | CS | Hash | https://github.com/sudhdkso/TIL/blob/main/CS/Hash/programmers_42576.md|
 | 2022.01.17 | CS | Hash | https://github.com/sudhdkso/TIL/blob/main/CS/Hash/programmers_42577.md|
 | 2022.01.17 | CS | Hash | https://github.com/sudhdkso/TIL/blob/main/CS/Hash/programmers_42578.md|
-
+| 2022.01.20 | CS | Stack | https://github.com/sudhdkso/TIL/blob/main/CS/Stack/programmers_12909.md|
+| 2022.01.20 | CS | Hash | https://github.com/sudhdkso/TIL/blob/main/CS/Hash/programmers_42579.md|
+| 2022.01.20 | spring | REST | https://github.com/sudhdkso/TIL/blob/main/Spring/Chapter6.md|
 
 
 
