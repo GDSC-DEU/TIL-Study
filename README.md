@@ -4,4 +4,4 @@
 
 | 날짜 | 제목  | 설명              | 링크     |
 | ---- | ----- | ----------------- | -------- |
-| 2022.1.26 | 프로그래머스 42586 기능개발 | 스택/큐 알고리즘 문제 해결 | [노션](https://plaid-breakfast-07b.notion.site/42586-59c3a1cfc47c4329bf8dbf5dece0aa43) |
+| 2022.1.27 | ZBrush day 14 | 수염, 헤어 모델링 | [노션](https://plaid-breakfast-07b.notion.site/ZBrush-day-14-59574db34b4d4a4e93bb89adf71bef6a) |
