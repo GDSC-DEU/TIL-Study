@@ -37,7 +37,10 @@
 | 2022.01.24 | CS | Stack | https://github.com/sudhdkso/TIL/blob/main/CS/Stack/programmers_42586.md|
 | 2022.01.21 | CS | Stack & Queue | https://github.com/sudhdkso/TIL/blob/main/CS/Stack%26Queue/programmers_42583.md|
 | 2022.01.24 | CS | Stack & Queue | https://github.com/sudhdkso/TIL/blob/main/CS/Stack%26Queue/programmers_42584.md|
-| 2022.01.21 | CS | Heap | https://github.com/sudhdkso/TIL/blob/main/CS/Heap/programmers_42626.md|
-| 2022.01.24 | Spring | Regex | https://github.com/sudhdkso/TIL/blob/main/Spring/Regex.md|
+| 2022.01.25 | CS | Stack & Queue | https://github.com/sudhdkso/TIL/blob/main/CS/Stack%26Queue/programmers_42583.md|
+| 2022.01.25 | CS | Stack & Queue | https://github.com/sudhdkso/TIL/blob/main/CS/Stack%26Queue/programmers_42584.md|
+| 2022.01.26 | CS | Heap | https://github.com/sudhdkso/TIL/blob/main/CS/Heap/programmers_42626.md|
+| 2022.01.26 | Spring | Regex | https://github.com/sudhdkso/TIL/blob/main/Spring/Regex1.md|
+| 2022.01.27 | Spring | Regex | https://github.com/sudhdkso/TIL/blob/main/Spring/Regex2.md|
 
 
