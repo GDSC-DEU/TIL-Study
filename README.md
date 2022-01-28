@@ -42,5 +42,6 @@
 | 2022.01.26 | CS | Heap | https://github.com/sudhdkso/TIL/blob/main/CS/Heap/programmers_42626.md|
 | 2022.01.26 | Spring | Regex | https://github.com/sudhdkso/TIL/blob/main/Spring/Regex1.md|
 | 2022.01.27 | Spring | Regex | https://github.com/sudhdkso/TIL/blob/main/Spring/Regex2.md|
+| 2022.01.28 | CS | greedy | https://github.com/sudhdkso/TIL/blob/main/CS/greedy/programmers_42885.md|
 
 
