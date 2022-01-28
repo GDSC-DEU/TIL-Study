@@ -24,4 +24,5 @@
 | 2021/01/19 | 웹 프로그래밍 기초 | CSS 기초 | [notion](https://pinto-lemon-f3a.notion.site/f3d1e20e85c14fd2b50da8f72f129d6a) |
 | 2021/01/20 | DJango | 템플릿 복습 | [notion](https://pinto-lemon-f3a.notion.site/DJango-1a2f03d14186462daf0fef43549527e8) |
 | 2021/01/21 | 프로젝트 | 기획안 작성 | [notion](https://www.notion.so/6715b21ba5be49d78ae57d888b8cce9b) |
+| 2021/01/28 | 종이접기 | 학, 감자튀김 | [notion](https://pinto-lemon-f3a.notion.site/df23c0951a08456192da6ed5971b155d) |
 
