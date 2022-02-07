@@ -1,6 +1,6 @@
 <br/>
 <p align="middle" >
-  <img width="400px;" height="300px" src="./images/로고_background-none.png"/>
+  <img width="300px;" src="./images/로고_background-none.png"/>
 </p>
 <h2 align="middle">TIL Study</h2>
 <p align="middle">
