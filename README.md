@@ -1,6 +1,6 @@
 <br/>
 <p align="middle" >
-  <img width="200px;" src="./images/로고_background-none.png"/>
+  <img width="400px;" height="300px" src="./images/로고_background-none.png"/>
 </p>
 <h2 align="middle">TIL Study</h2>
 <p align="middle">
@@ -36,3 +36,18 @@ Today I Leared
 6. **웹사이트로 본인 계정의 `fork` 된 repo로 가기!**
 7. **Contribute → Open pull request 로 PR!**
    - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
+
+<br/>
+<br/>
+
+## 리스트
+
+| 이름   | 링크                             |
+| ------ | -------------------------------- |
+| 원지윤 | [sudhdkso](/sudhdkso/)           |
+| 허수민 | [heosumin518](/heosumin518/)     |
+| 최인수 | [Nifskor](/Nifskor/)             |
+| 최정혜 | [jeonghye-choi](/jeonghye-choi/) |
+| 김남주 | [cmsong111](/cmsong111/)         |
+| 이설희 | [D0ri123](/D0ri123/)             |
+| 박지윤 | [jiy00nn](/jiy00nn/)             |
