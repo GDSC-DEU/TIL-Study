@@ -1,9 +1,10 @@
 ## 2월 TIL
 
-| 날짜     | 제목             | 설명                  | 링크                                                                            |
-| -------- | ---------------- | --------------------- | ------------------------------------------------------------------------------- |
-| 2022.2.7 | 알고리즘 스택/큐 | 프로그래머스 문제풀기 | [프로그래머스-42584](https://github.com/GDSC-DEU/code-study/pull/22)            |
-| 2022.2.8 | Numble 챌린지    | webpack 설정          | [프로그래머스-42584](https://github.com/jeonghye-choi/SearchDifferentColorGame) |
+| 날짜     | 제목             | 설명                                         | 링크                                                                                            |
+| -------- | ---------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 2022.2.7 | 알고리즘 스택/큐 | 프로그래머스 문제풀기                        | [프로그래머스-42584](https://github.com/GDSC-DEU/code-study/pull/22)                            |
+| 2022.2.8 | Numble 챌린지    | webpack 설정                                 | [프로그래머스-42584](https://github.com/jeonghye-choi/SearchDifferentColorGame)                 |
+| 2022.2.9 | winter project   | PWA 레퍼런스 찾기, Jira 이슈 등록, 깃헙 설정 | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 
 <br/>
 <br/>
