@@ -48,6 +48,3 @@ Today I Leared
 | 허수민 | [heosumin518](/heosumin518/)     |
 | 최인수 | [Nifskor](/Nifskor/)             |
 | 최정혜 | [jeonghye-choi](/jeonghye-choi/) |
-| 김남주 | [cmsong111](/cmsong111/)         |
-| 이설희 | [D0ri123](/D0ri123/)             |
-| 박지윤 | [jiy00nn](/jiy00nn/)             |
