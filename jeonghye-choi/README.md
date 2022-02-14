@@ -6,6 +6,7 @@
 | 2022.2.8  | Numble 챌린지    | webpack 설정                                 | [numble 챌린지](https://github.com/jeonghye-choi/SearchDifferentColorGame)                      |
 | 2022.2.9  | winter project   | PWA 레퍼런스 찾기, Jira 이슈 등록, 깃헙 설정 | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.10 | Numble 챌린지    |                                              | [numble 챌린지](https://github.com/jeonghye-choi/SearchDifferentColorGame)                      |
+| 2022.2.11 | Numble 챌린지    |                                              | [numble 챌린지](https://github.com/jeonghye-choi/SearchDifferentColorGame)                      |
 
 <br/>
 <br/>
