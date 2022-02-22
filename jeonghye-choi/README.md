@@ -11,6 +11,7 @@
 | 2022.2.15 | winter project   | atomic design 적용, storybook 공부           | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.16 | winter project   | postCSS 공부 및 다소니에 적용                | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.17 | algorithm        | 절차형 함수형 분리해서 알고리즘 풀어보기     | [programmers](https://github.com/GDSC-DEU/code-study/pull/52)                                   |
+| 2022.2.18 | winter project   | recoil 공부 및 다소니에 적용                 | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 
 <br/>
 <br/>
