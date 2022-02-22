@@ -9,6 +9,7 @@
 | 2022.2.11 | Numble 챌린지    |                                              | [numble 챌린지](https://github.com/jeonghye-choi/SearchDifferentColorGame)                      |
 | 2022.2.14 | winter project   | api 요청(GET), swr 공부                      | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.15 | winter project   | atomic design 적용, storybook 공부           | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
+| 2022.2.16 | winter project   | postCSS 공부 및 다소니에 적용                | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 
 <br/>
 <br/>
