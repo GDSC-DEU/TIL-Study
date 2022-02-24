@@ -2,5 +2,10 @@
 
 | 날짜       | 제목                            | 설명                                                          | 링크                                                                                     |
 | ---------- | ------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 2021/01/03 | RTL_SDR ISS SSTV 수신프로젝트 1 | RTL_SDR , SSTV 개념에 대해 기술하였습니다.                    | [https://blog.naver.com/nifskr/222612128771](https://blog.naver.com/nifskr/222612128771) |
-| 2021/01/03 | RTL_SDR ISS SSTV 수신프로젝트 2 | RTL_SDR , SSTV 수신을위하여 안테나 제작에대해 기술하였습니다. | [https://blog.naver.com/nifskr/222612239059](https://blog.naver.com/nifskr/222612239059) |
+| 2022/02/25 | [DIY 프로젝트] 1탄 싱기버스Thingiverse Led Bridge 프로젝트를 기획하다  | [ 1탄 싱기버스Thingiverse Led Bridge 프로젝트를  기획한 내용을 담고있습니다   | [https://blog.naver.com/nifskr/222656021598) |
+| 2022/02/25 | Led_Bridge 2탄 46일의 대 여정 프로젝트를 구현하기 위해 필요한 준비물, 예산을 알아보자!  | Led_Bridge 2탄 46일의 대 여정 프로젝트를 구현하기 위해 필요한 준비물, 예산에 대한 내용을 담고있습니다  | [https://blog.naver.com/nifskr/222656091513) |
+| 2022/02/25 |  Led_Bridge 3탄  46일의 대 여정 3D 프린터로 부품을 출력부터 조립까지!  |  Led_Bridge 3탄  46일의 대 여정 3D 프린터로 부품을 출력부터 조립까지 과정을 담고있습니다.  | [https://blog.naver.com/nifskr/222656178174) |
+| 2022/02/25 |  Led_Bridge 4탄 46일의 대 여정 Led Strip 네오 픽셀 WS2812 작업부터 가회로 구성까지! | Led_Bridge 4탄 46일의 대 여정 Led Strip 네오 픽셀 WS2812 작업부터 가회로 구성까지 과정을 담고있습니다.  | [https://blog.naver.com/nifskr/222656213569) |
+| 2022/02/25 |  Led_Bridge 5탄 46일의 대 여정  usb c 타입 배선부터 PCB 기판 회로 작업까지 | Led_Bridge 5탄 46일의 대 여정  usb c 타입 배선부터 PCB 기판 회로 작업까지  과정을 담고있습니다.  | [https://blog.naver.com/nifskr/222656254473) |
+| 2022/02/25 |  Led_Bridge 6탄 46일의 대 여정 조명의 색온도의 중요성과, 프로그래밍 과정에 대해 살펴보자! | Led_Bridge 6탄 46일의 대 여정 조명의 색온도의 중요성과, 프로그래밍  과정을 담고있습니다.  | [https://blog.naver.com/nifskr/222657072911) |
+| 2022/02/25 |  Led_Bridge 7탄  46일의 대 여정의 마지막! 기능 시연 및 실제 작동 모습을 살펴보고 느낀 점은? | Led_Bridge 7탄  46일의 대 여정의 마지막! 기능 시연 및 실제 작동 모습을 살펴보고 느낀 점에 대한 내용을 담고있습니다.  | [https://blog.naver.com/nifskr/222657213289) |
