@@ -12,6 +12,7 @@
 | 2022.2.16 | winter project   | postCSS 공부 및 다소니에 적용                | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.17 | algorithm        | 절차형 함수형 분리해서 알고리즘 풀어보기     | [programmers](https://github.com/GDSC-DEU/code-study/pull/52)                                   |
 | 2022.2.18 | winter project   | recoil 공부 및 다소니에 적용                 | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
+| 2022.2.21 | 외주             | 디자인 레퍼런스 찾기                         |                                                                                                 |
 
 <br/>
 <br/>
