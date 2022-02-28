@@ -14,6 +14,7 @@
 | 2022.2.18 | winter project   | recoil 공부 및 다소니에 적용                 | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.21 | 외주             | 디자인 레퍼런스 찾기                         |
 | 2022.2.22 | winter project   | port 충돌 해결, Recoil 적용                  | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
+| 2022.2.23 | winter project   | firebase 배포, github actions으로 배포 연결  | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 
 <br/>
 <br/>
