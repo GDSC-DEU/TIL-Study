@@ -16,6 +16,7 @@
 | 2022.2.22 | winter project   | port 충돌 해결, Recoil 적용                  | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.23 | winter project   | firebase 배포, github actions으로 배포 연결  | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 | 2022.2.24 | winter project   | github actions 오류 찾기                     | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
+| 2022.2.25 | winter project   | github actions 오류 찾기                     | [2022-SolutionChallenge-Dasoni](https://github.com/jeonghye-choi/2022-SolutionChallenge-Dasoni) |
 
 <br/>
 <br/>
